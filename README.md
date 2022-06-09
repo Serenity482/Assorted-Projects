@@ -1,3 +1,3 @@
-#Assorted Projects
-Tons of mini projects.
+Assorted Projects<br>
+Tons of mini projects.<br>
 Enjoy :)
