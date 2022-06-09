@@ -1,2 +1,3 @@
-# Surveilleince_System
-A multi language repository to set up IP cameras with a homemade security system.
+#Assorted Projects
+Tons of mini projects.
+Enjoy :)
